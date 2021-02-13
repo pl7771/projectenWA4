@@ -7,6 +7,4 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'projectWA4';
-  uur: string = 'HELLO4ES';
-  uur2: string = 'HELLO4ES';
 }
